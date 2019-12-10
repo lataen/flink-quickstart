@@ -18,7 +18,7 @@ public class MyCoFlatMap {
 
         DataStream<Integer> lenStream = text2.map(Integer::valueOf);
         ConnectedStreams<String, Integer> connectedStreams = text1.connect(lenStream);
-        DataStream outStream = connectedStreams.flatMap(new StrategyMapFunction());
+        DataStream<String> outStream = connectedStreams.flatMap(new StrategyMapFunction());
         outStream.print();
 
         env.execute("Socket Window WordCount");
