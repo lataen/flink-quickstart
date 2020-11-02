@@ -1,1 +1,1 @@
-# flink_study
+# flink-quickstart
