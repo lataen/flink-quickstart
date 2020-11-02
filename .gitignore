@@ -114,3 +114,5 @@ fabric.properties
 */build
 */build/*
 .gradle
+
+/.idea/

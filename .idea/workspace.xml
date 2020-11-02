@@ -23,11 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e3e98a6-658b-4520-8c3c-47202859b015" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jd/quickstart/sql/WorkCountBySQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/flink-quickstart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flink-quickstart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +203,7 @@
       <workItem from="1576002336253" duration="549000" />
       <workItem from="1576003689857" duration="177000" />
       <workItem from="1604308151835" duration="835000" />
-      <workItem from="1604309347034" duration="2406000" />
+      <workItem from="1604309347034" duration="2637000" />
     </task>
     <servers />
   </component>
